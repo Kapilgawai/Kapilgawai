@@ -2,7 +2,7 @@
 full stack developer
 - 👀 I’m interested in coding and software making
 - 🌱 coder @codingninjas
-- 💞️ I’m looking to collaborate on coding 
+- 💞️ 
 - 📫 How to reach me instagram @kapil____kd
 
 <!---
