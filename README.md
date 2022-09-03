@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kapilgawai
+full stack developer
 - 👀 I’m interested in coding and software making
-- 🌱 I’m currently learning mechanical engineering
+- 🌱 coder @codingninjas
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me instagram @kapil____kd
 
