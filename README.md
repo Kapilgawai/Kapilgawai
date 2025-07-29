@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kapilgawai
-full stack developer
+Frontend developer
 - 👀 I’m interested in coding and software making
 - 🌱 coder @codingninjas
 - 💞️ 
