@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Kapilgawai
-Frontend developer
-- 👀 I’m interested in coding and software development
-- 🌱 coder 
-- 💞️ 
-- 📫 How to reach me kdgawai247@gmail.com
+# 👋 Hi, I'm Kapil Gawai  
 
-<!---
-Kapilgawai/Kapilgawai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Results-driven Full-Stack Developer** passionate about crafting lightning-fast, scalable, and visually stunning digital experiences.  
+💻 Skilled in **React.js**, **React Native**, **JavaScript**, **Redux**, and **modern UI animations (GSAP, Canvas)**.  
+⚙️ I love building clean, maintainable, and high-performance software that blends creativity with precision.  
+
+---
+
+###Interests  
+- Frontend & Full-Stack Development  
+- Clean Architecture & Scalable Design  
+- AI-Powered Applications & Animation Engineering  
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced React Native architecture  
+- Performance optimization & AI-driven workflows  
+
+---
+
+### 📫 Reach Me At  
+📧 **kdgawai247@gmail.com**  
+
+---
+
+> _“Code is like art — every line should be intentional.”_ 🎨  
