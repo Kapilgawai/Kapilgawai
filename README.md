@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kapil Gawai  
 
-🚀 **Results-driven Full-Stack Developer** passionate about crafting lightning-fast, scalable, and visually stunning digital experiences.  
+🚀 **Results-driven frontend Developer** passionate about crafting lightning-fast, scalable, and visually stunning digital experiences.  
 💻 Skilled in **React.js**, **React Native**, **JavaScript**, **Redux**, and **modern UI animations (GSAP, Canvas)**.  
 ⚙️ I love building clean, maintainable, and high-performance software that blends creativity with precision.  
 
